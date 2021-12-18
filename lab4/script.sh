@@ -1,5 +1,5 @@
 #!/bin/bash
 
-nvcc ex2.cu
+nvcc ex3.cu
 ./a.out
 
